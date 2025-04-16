@@ -11,6 +11,6 @@ __볼드__
 >첫번째 인용문
 >> 두번째 인용문
 
-tablegenerator 사용하며 녚ㄴ함~
+tablegenerator 사용하며 편하다.
 
 [깃허브(링크 표시이름)](https://github.com)
