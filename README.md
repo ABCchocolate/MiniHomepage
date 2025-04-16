@@ -8,7 +8,10 @@
 - log in/ log out 추가
 
 ## 구매 페이지 추가 
-buy.md 추가
+- buy.md 추가
 
-# 장바구니 서비스 소개
+## 장바구니 서비스 소개
 - cart.md 추가
+
+## 푸터 추가
+- footer.md 추가
